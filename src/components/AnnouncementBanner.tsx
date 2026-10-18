@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { MapPin, Sparkles, Calendar, Clock } from "lucide-react";
 
-const TARGET = new Date("2026-11-11T11:00:00+05:30").getTime();
+const TARGET = new Date("2026-11-11T11:11:00+05:30").getTime();
 
 function fmt(n: number) {
   return n < 10 ? `0${n}` : `${n}`;
@@ -78,7 +78,7 @@ export default function AnnouncementBanner() {
               </div>
               <div className="flex items-center gap-2 px-4 py-2 rounded-lg bg-navy-900/60 border border-gold-400/30 backdrop-blur-sm">
                 <Clock className="w-4 h-4 text-gold-300" />
-                <span className="text-gold-100 font-medium">11:00 AM IST</span>
+                <span className="text-gold-100 font-medium">11:11 AM IST</span>
               </div>
             </div>
           </div>
