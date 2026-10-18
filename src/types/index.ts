@@ -49,7 +49,7 @@ export interface MembershipBenefitSplit {
 }
 
 export interface MembershipProgram {
-  id: 'silver' | 'gold';
+  id: string;
   name: string;
   tagline: string;
   fee: number;
