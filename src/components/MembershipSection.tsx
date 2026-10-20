@@ -47,11 +47,11 @@ export default function MembershipSection(_props?: MembershipSectionProps) {
     "santhosam": "Men aged 18 years and above who wish to celebrate their birthdays or wedding anniversaries with exclusive gold and silver purchase benefits. Benefits are redeemable on the eligible occasion date, subject to verification and terms.",
     "annadata-jawan": "Eligible farmers and serving or retired defence personnel who wish to receive special jewellery purchase benefits as a token of appreciation for their contribution to the nation. Valid identification or occupation proof may be required.",
     "bhavitha": "Children below 18 years of age, boys and girls, can be enrolled by a parent or legal guardian. Special benefits apply to eligible gold purchases for birthdays, Panchela functions and Rajaswala ceremonies, as applicable.",
-    "bhumi-loyalty": "Customers who register for the Ranaha Gold Company loyalty programme. Eligible purchases earn cashback credited to the member’s card for future redemption under the programme rules.",
+    "bhumi-loyalty": "Customers who register for the Ranaha Gold Company loyalty programme. Eligible purchases earn cashback credited to the member's card for future redemption under the programme rules.",
     "mahalakshmi": "Brides and families planning eligible wedding purchases through Ranaha Gold Company. Marriage package benefits are available subject to the selected package, purchase requirements and applicable terms.",
     "surya": "Customers who wish to enjoy eligible weekly jewellery shopping privileges at participating Ranaha Gold Company physical stores. Offers are subject to qualifying products, availability and applicable Saturday timings.",
-    "bhagya-lakshmi": "Women who wish to celebrate their marriage, seemantham or birthday occasions with special gold and silver purchase privileges. Benefits are available for eligible event-related purchases under the card’s terms.",
-    "silver": "First-time customers who qualify for the free Silver Membership programme. Members can access the stated service benefits and eligible silver purchase offer according to the programme’s redemption rules.",
+    "bhagya-lakshmi": "Women who wish to celebrate their marriage, seemantham or birthday occasions with special gold and silver purchase privileges. Benefits are available for eligible event-related purchases under the card's terms.",
+    "silver": "First-time customers who qualify for the free Silver Membership programme. Members can access the stated service benefits and eligible silver purchase offer according to the programme's redemption rules.",
     "gold": "Customers willing to enrol in the Gold Membership programme by paying the prescribed ₹5,000 membership fee. Eligible members can access the stated service benefits and gold purchase offers, subject to redemption limits and terms."
   };
 
